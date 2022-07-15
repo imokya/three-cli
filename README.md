@@ -1,5 +1,5 @@
 # three-cli
-自用three.js命令行工具
+自用three.js模板命令行工具
 
 ## 使用
 ```js
