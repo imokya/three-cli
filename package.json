@@ -1,14 +1,21 @@
 {
   "name": "three-cli",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imokya/three-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "starter",
+    "three.js"
+  ],
   "bin": {
     "three-cli": "bin/cli.js"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "author": "行歌",
   "license": "ISC",
   "dependencies": {
