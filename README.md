@@ -1,4 +1,4 @@
 # three-cli
-下载three.js模板的cli工具
+自用three.js命令行工具
 
 
